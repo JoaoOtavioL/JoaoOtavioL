@@ -1,0 +1,3 @@
+- Olá meu nome é João Otavio!
+- Tenho 20 anos e estou no primeiro ano de Ciências da Computação!
+- Quero aprender muito sobre o mundo da técnologia e afins!
